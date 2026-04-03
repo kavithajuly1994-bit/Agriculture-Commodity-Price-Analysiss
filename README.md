@@ -1,5 +1,5 @@
 [Project Title]
-Agriculture Commosity Price Analysis (26-01-2026)
+Agriculture Commodity Price Analysis (26-01-2026)
 
 📖 Table of Contents
 * Project Overview
